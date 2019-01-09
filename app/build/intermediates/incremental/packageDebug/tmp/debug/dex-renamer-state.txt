@@ -1,0 +1,4 @@
+#Wed Jan 09 15:12:11 MSK 2019
+base.0=/opt/vuforia-sdk-android-7-5-26/samples/tutor2/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
